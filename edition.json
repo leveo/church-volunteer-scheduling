@@ -1,0 +1,27 @@
+{
+  "mainRepo": "leveo/church4christ",
+  "version": "v1.4.0",
+  "preset": "volunteer-scheduling",
+  "homepage": "https://church4christ.yunfei-song.com/en/sandbox",
+  "description": "Open-source church volunteer scheduling: teams, positions, a monthly scheduling matrix, confirm/decline emails, blockout dates, and a spiritual gifts quiz. Self-hosted, English and Chinese. A Church4Christ edition.",
+  "topics": [
+    "church",
+    "volunteer-scheduling",
+    "volunteer-management",
+    "church-volunteers",
+    "scheduling",
+    "worship-team",
+    "rota",
+    "spiritual-gifts",
+    "church-management",
+    "chms",
+    "church4christ",
+    "self-hosted",
+    "nonprofit",
+    "bilingual",
+    "cloudflare-workers",
+    "cloudflare-d1",
+    "astro",
+    "planning-center-alternative"
+  ]
+}
