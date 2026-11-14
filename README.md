@@ -7,7 +7,7 @@ church management system and website. It contains no separate code: the quick st
 installs Church4Christ v1.5.0 with only the Volunteer Scheduling features switched on (Volunteer Scheduling, Spiritual Gifts, People & Households).
 Everything else stays off until you turn it on.
 
-**[Try the live demo](https://church4christ.yunfei-song.com/en/sandbox)** · [Main repository](https://github.com/leveo/church4christ) · [Setup guide](https://github.com/leveo/church4christ/blob/v1.5.0/docs/setup.md)
+**[Try the live demo](https://demo.church4christ.org/en/sandbox)** · [Main repository](https://github.com/leveo/church4christ) · [Setup guide](https://github.com/leveo/church4christ/blob/v1.5.0/docs/setup.md)
 
 ## What you get
 
@@ -33,7 +33,7 @@ Everything else stays off until you turn it on.
 
 ## Try the live demo
 
-Open the [public sandbox](https://church4christ.yunfei-song.com/en/sandbox). Choose **Administrator**, then open the **Volunteer Console** in the admin menu. Choose **Member portal** to see the volunteer side: the **Serve** page and the gifts quiz. All data is fictional and resets every night.
+Open the [public sandbox](https://demo.church4christ.org/en/sandbox). Choose **Administrator**, then open the **Volunteer Console** in the admin menu. Choose **Member portal** to see the volunteer side: the **Serve** page and the gifts quiz. All data is fictional and resets every night.
 
 ## Quick start
 
