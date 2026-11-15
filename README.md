@@ -4,10 +4,10 @@ Schedule worship, kids, hospitality, and tech teams. Volunteers confirm or decli
 
 This repository is the **Volunteer Scheduling** edition of [Church4Christ](https://github.com/leveo/church4christ), an open-source
 church management system and website. It contains no separate code: the quick start below
-installs Church4Christ v1.5.0 with only the Volunteer Scheduling features switched on (Volunteer Scheduling, Spiritual Gifts, People & Households).
+installs Church4Christ v1.6.0 with only the Volunteer Scheduling features switched on (Volunteer Scheduling, Spiritual Gifts, People & Households).
 Everything else stays off until you turn it on.
 
-**[Try the live demo](https://demo.church4christ.org/en/sandbox)** · [Main repository](https://github.com/leveo/church4christ) · [Setup guide](https://github.com/leveo/church4christ/blob/v1.5.0/docs/setup.md)
+**[Try the live demo](https://demo.church4christ.org/en/sandbox)** · [Main repository](https://github.com/leveo/church4christ) · [Setup guide](https://github.com/leveo/church4christ/blob/v1.6.0/docs/setup.md)
 
 ## What you get
 
@@ -19,17 +19,17 @@ Everything else stays off until you turn it on.
 - **Reminders and a weekly digest.** Unconfirmed volunteers get a reminder before their service, and everyone gets a weekly list of their serving.
 - **Personal schedule and calendar feed.** Each volunteer has a schedule page and a private subscribe link for Apple Calendar, Google Calendar, or Outlook.
 - **Apply to serve and a spiritual gifts quiz.** An opportunity board, team applications that leaders approve, and a 40-statement gifts quiz that recommends ministries.
-- **English and Chinese** throughout.
+- **12 interface languages** throughout, including English and Chinese.
 
 ## Screenshots
 
-![The scheduling matrix: plans down one axis, positions across the other](https://raw.githubusercontent.com/leveo/church4christ/v1.5.0/docs/images/serve/matrix.png)
+![The scheduling matrix: plans down one axis, positions across the other](https://raw.githubusercontent.com/leveo/church4christ/v1.6.0/docs/images/serve/matrix.png)
 
-![A plan with every position and each volunteer's status](https://raw.githubusercontent.com/leveo/church4christ/v1.5.0/docs/images/serve/plan-detail.png)
+![A plan with every position and each volunteer's status](https://raw.githubusercontent.com/leveo/church4christ/v1.6.0/docs/images/serve/plan-detail.png)
 
-![The volunteer's serve page with upcoming assignments and open slots](https://raw.githubusercontent.com/leveo/church4christ/v1.5.0/docs/images/serve/serve-landing.png)
+![The volunteer's serve page with upcoming assignments and open slots](https://raw.githubusercontent.com/leveo/church4christ/v1.6.0/docs/images/serve/serve-landing.png)
 
-![Spiritual gifts quiz results with ministry recommendations](https://raw.githubusercontent.com/leveo/church4christ/v1.5.0/docs/images/serve/gifts-results.png)
+![Spiritual gifts quiz results with ministry recommendations](https://raw.githubusercontent.com/leveo/church4christ/v1.6.0/docs/images/serve/gifts-results.png)
 
 ## Try the live demo
 
@@ -41,7 +41,7 @@ You need [Git](https://git-scm.com/) and [Node.js](https://nodejs.org/) 22.22.1 
 These commands work in macOS and Linux terminals and in Windows PowerShell.
 
 ```bash
-git clone --depth 1 --branch v1.5.0 https://github.com/leveo/church4christ.git my-church
+git clone --depth 1 --branch v1.6.0 https://github.com/leveo/church4christ.git my-church
 cd my-church
 npm ci
 npm run onboard -- --preset volunteer-scheduling
@@ -73,14 +73,14 @@ computer, sign-in links print to the terminal instead of being emailed.
 This is the complete Church4Christ codebase with a focused starting point. When you are
 ready, an administrator can turn on more features (sermons, events, volunteers, groups,
 check-in, and more) in **Settings → Modules**, without reinstalling. Upgrades follow the
-main repository's [upgrade guide](https://github.com/leveo/church4christ/blob/v1.5.0/docs/upgrade.md).
+main repository's [upgrade guide](https://github.com/leveo/church4christ/blob/v1.6.0/docs/upgrade.md).
 
 ## Learn more
 
-- [Volunteer scheduling](https://github.com/leveo/church4christ/blob/v1.5.0/docs/features/volunteer-serve.md)
-- [Email and automation](https://github.com/leveo/church4christ/blob/v1.5.0/docs/features/email-automation.md)
-- [People & households](https://github.com/leveo/church4christ/blob/v1.5.0/docs/features/people-households.md)
-- [Putting it online with Cloudflare](https://github.com/leveo/church4christ/blob/v1.5.0/docs/setup.md)
+- [Volunteer scheduling](https://github.com/leveo/church4christ/blob/v1.6.0/docs/features/volunteer-serve.md)
+- [Email and automation](https://github.com/leveo/church4christ/blob/v1.6.0/docs/features/email-automation.md)
+- [People & households](https://github.com/leveo/church4christ/blob/v1.6.0/docs/features/people-households.md)
+- [Putting it online with Cloudflare](https://github.com/leveo/church4christ/blob/v1.6.0/docs/setup.md)
 
 ## 中文简介
 
@@ -96,7 +96,7 @@ main repository's [upgrade guide](https://github.com/leveo/church4christ/blob/v1
 - 申请服事、机会看板，以及 40 题恩赐测验推荐适合的事工。
 
 本仓库是 [Church4Christ](https://github.com/leveo/church4christ) 的单一功能版本，不包含另外的代码。按上面的快速开始安装后，
-得到的是完整的 Church4Christ v1.5.0，只预先开启了这一组功能；以后可以在「设置 → 模块」里开启更多功能。
+得到的是完整的 Church4Christ v1.6.0，只预先开启了这一组功能；以后可以在「设置 → 模块」里开启更多功能。
 
 ## Questions and issues
 
