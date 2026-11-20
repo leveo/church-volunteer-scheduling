@@ -1,6 +1,6 @@
 {
   "mainRepo": "leveo/church4christ",
-  "version": "v1.6.0",
+  "version": "v1.7.0",
   "preset": "volunteer-scheduling",
   "homepage": "https://demo.church4christ.org/en/sandbox",
   "description": "Open-source church volunteer scheduling: teams, positions, a monthly scheduling matrix, confirm/decline emails, blockout dates, and a spiritual gifts quiz. Self-hosted, 12 interface languages. A Church4Christ edition.",
